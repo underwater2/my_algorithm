@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="066c109f-35fc-47fa-a2c4-e61bda361b0a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/후보키/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/후보키/s1.py" afterDir="false" />
-    </list>
+    <list default="true" id="066c109f-35fc-47fa-a2c4-e61bda361b0a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +19,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Baekjoon/9012_괄호/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="72">
+              <caret line="3" selection-start-line="3" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Baekjoon/5525_IOIOI/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Baekjoon/5525_IOIOI/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -61,6 +76,9 @@
         <option value="$PROJECT_DIR$/Programmers/후보키/s1.py" />
         <option value="$PROJECT_DIR$/Baekjoon/9012_괄호/input.txt" />
         <option value="$PROJECT_DIR$/Baekjoon/9012_괄호/s1.py" />
+        <option value="$PROJECT_DIR$/Baekjoon/2941_크로아티아_알파벳/s1.py" />
+        <option value="$PROJECT_DIR$/Baekjoon/5525_IOIOI/input.txt" />
+        <option value="$PROJECT_DIR$/Baekjoon/5525_IOIOI/s1.py" />
       </list>
     </option>
   </component>
@@ -86,41 +104,6 @@
               <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="9012_괄호" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="후보키" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="SWExpertAcademy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="SWExpertAcademy" type="462c0819:PsiDirectoryNode" />
-              <item name="220125" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="SWExpertAcademy" type="462c0819:PsiDirectoryNode" />
-              <item name="220125" type="462c0819:PsiDirectoryNode" />
-              <item name="4837_부분집합의_합" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
+  <component name="RunManager" selected="Python.s1 (3)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWExpertAcademy/1865_동철이의_일_분배" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/5525_IOIOI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWExpertAcademy/1865_동철이의_일_분배/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/5525_IOIOI/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (5)" />
-        <item itemvalue="Python.s1 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -279,15 +262,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="778" y="3" width="1242" height="1062" extended-state="0" />
+    <frame x="829" y="6" width="1242" height="1062" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.16445182" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.160299" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31034482" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31034482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34051725" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,6 +317,11 @@
           <url>file://$PROJECT_DIR$/Baekjoon/9012_괄호/s1.py</url>
           <line>23</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baekjoon/5525_IOIOI/s1.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -469,8 +457,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Baekjoon/9012_괄호/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/5525_IOIOI/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/5525_IOIOI/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
