@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="066c109f-35fc-47fa-a2c4-e61bda361b0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/후보키/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/후보키/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +13,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SWExpertAcademy/1865_동철이의_일_분배/s1.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programmers/후보키/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="360">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Baekjoon/9012_괄호/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Baekjoon/9012_괄호/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -38,12 +57,16 @@
         <option value="$PROJECT_DIR$/SWExpertAcademy/5658_보물상자_비밀번호/s1.py" />
         <option value="$PROJECT_DIR$/SWExpertAcademy/2382_미생물_격리/s1.py" />
         <option value="$PROJECT_DIR$/SWExpertAcademy/광이삼의_암벽_등반/s1.py" />
+        <option value="$PROJECT_DIR$/Baekjoon/2805_나무_자르기/s1.py" />
+        <option value="$PROJECT_DIR$/Programmers/후보키/s1.py" />
+        <option value="$PROJECT_DIR$/Baekjoon/9012_괄호/input.txt" />
+        <option value="$PROJECT_DIR$/Baekjoon/9012_괄호/s1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="611" />
-    <option name="y" value="113" />
+    <option name="x" value="829" />
+    <option name="y" value="6" />
     <option name="width" value="1242" />
     <option name="height" value="1062" />
   </component>
@@ -52,7 +75,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,12 +85,48 @@
             <path>
               <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="9012_괄호" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="후보키" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="SWExpertAcademy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="SWExpertAcademy" type="462c0819:PsiDirectoryNode" />
+              <item name="220125" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="SWExpertAcademy" type="462c0819:PsiDirectoryNode" />
+              <item name="220125" type="462c0819:PsiDirectoryNode" />
+              <item name="4837_부분집합의_합" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -91,8 +149,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1">
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.s1 (2)">
+    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/2667_단지번호붙이기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/후보키" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/2667_단지번호붙이기/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/후보키/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/1697_숨바꼭질" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/9012_괄호" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/1697_숨바꼭질/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/9012_괄호/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -221,15 +279,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="611" y="113" width="1242" height="1062" extended-state="0" />
+    <frame x="778" y="3" width="1242" height="1062" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16445182" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.16445182" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31573275" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39870688" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31034482" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34051725" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -265,6 +324,16 @@
           <url>file://$PROJECT_DIR$/Baekjoon/1697_숨바꼭질/s1.py</url>
           <line>26</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programmers/후보키/s1.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baekjoon/9012_괄호/s1.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -328,6 +397,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/1865_동철이의_일_분배/input.txt" />
+    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/광이삼의_암벽_등반/s1.py" />
+    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/2382_미생물_격리/s1.py" />
+    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/5658_보물상자_비밀번호/s1.py" />
+    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/2383_점심_식사시간/s1.py" />
+    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/14890_경사로/s1.py" />
+    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/14890_경사로/input.txt" />
+    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/1865_동철이의_일_분배/s1.py" />
+    <entry file="file://$PROJECT_DIR$/Baekjoon/1260_DFS와_BFS/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Baekjoon/2178_미로_탐색/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -338,81 +422,55 @@
     <entry file="file://$PROJECT_DIR$/Baekjoon/1920_수_찾기/s1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/1260_DFS와_BFS/s1.py">
+    <entry file="file://$PROJECT_DIR$/Baekjoon/1697_숨바꼭질/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216" />
+        <state relative-caret-position="264">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Baekjoon/1012_유기농_배추/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Baekjoon/2667_단지번호붙이기/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/1697_숨바꼭질/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/1865_동철이의_일_분배/input.txt">
+    <entry file="file://$PROJECT_DIR$/Baekjoon/2805_나무_자르기/s1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/광이삼의_암벽_등반/s1.py">
+    <entry file="file://$PROJECT_DIR$/Programmers/후보키/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        <state relative-caret-position="360">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/2382_미생물_격리/s1.py">
+    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/220125/4837_부분집합의_합/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <caret selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/5658_보물상자_비밀번호/s1.py">
+    <entry file="file://$PROJECT_DIR$/Baekjoon/9012_괄호/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/9012_괄호/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/2383_점심_식사시간/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/14890_경사로/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/14890_경사로/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWExpertAcademy/1865_동철이의_일_분배/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>

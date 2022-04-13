@@ -1,3 +1,5 @@
+# 미통과. 75%만 맞음ㅜㅜ
+
 # 참고 코드
 # https://codlingual.tistory.com/161
 
