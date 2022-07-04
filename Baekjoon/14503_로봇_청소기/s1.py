@@ -7,6 +7,10 @@
             # 그럴땐 아래코드를 추가해서 해결하면된다.
             # O(n^3) 이기도하고 row, col이 각각 100 이면 최대 10000번의 재귀가 발생한다.
 
+# 다른 풀이
+    # https://resilient-923.tistory.com/164
+    # https://wewinserv.tistory.com/173
+
 import sys
 sys.stdin = open('input.txt')
 sys.setrecursionlimit(100000)
