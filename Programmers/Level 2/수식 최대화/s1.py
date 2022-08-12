@@ -1,6 +1,17 @@
 # split, eval을 사용해서 풀었다.
 # 낮은 우선순위 연산자부터 split 해가면서, 높은 우선순위를 먼저 계산할 수 있게 함
 
+# 다른 풀이
+    # 스택 2개 사용
+        # https://latte-is-horse.tistory.com/132
+    # 숫자, 연산자 따로 담고 계산 할때마다 del
+        # https://velog.io/@yujin1760/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%88%98%EC%8B%9D-%EC%B5%9C%EB%8C%80%ED%99%94
+
+# expression을 숫자, 연산자로 나누어 리스트로 만드는 법
+    # expression = re.split(r'(\D)',expression)
+    # r'(\D)' regex ''에 들어가는 문자를 ()로 묶으면 사라지지 않고 리스트에 들어감.
+
+
 answer = -1
 
 def solution(exp):
