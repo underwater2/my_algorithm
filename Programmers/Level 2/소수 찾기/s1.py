@@ -4,7 +4,7 @@ from itertools import permutations
 
 def solution(numbers):
     num = []
-    # 한 숫자씩 자르기
+    # 한 숫자씩 자르기 => 필요x permutations(numbers, i) 처럼 그대로 넣어도 됨.
     for number in numbers:
         num.append(number)
     # 순열로 구한 숫자들을 set에 넣기 (중복제거)
