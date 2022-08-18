@@ -1,6 +1,9 @@
 # 유일성에서 중복 검사, 최소성에서 이미 있는 조합에 포함되는지 검사하는 게 까다로웠다.
 # tuple('abcd') => ('a', 'b', 'c', 'd')
 # {2, 3} < {2, 3, 4} => True
+    # set 메서드 .issubset() 으로 할 수도 있다
+        # https://codlingual.tistory.com/161
+# 문자열, 숫자, 튜플만 set에 넣을 수 있다.
 
 
 from itertools import combinations
